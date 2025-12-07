@@ -1,0 +1,16 @@
+# Mac rommel
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Database & data
+data/
+
+# Config met gevoelige info
+config.ini
+
