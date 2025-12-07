@@ -68,10 +68,9 @@ python -m app.cli list-sets
 
 ## 7.2 Kaarten importeren
 
-Maak dit bestand aan:
-data/cards.csv
+Voorbeelddata: `data/cards.csv`
 
-Voorbeelddata:
+```csv
 name;set_code;count;price
 Charizard;BASE;1;350
 Blastoise;BASE;1;180
