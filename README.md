@@ -82,6 +82,7 @@ Umbreon VMAX (Alt Art);EVS;1;520
 Charizard ex (Tera);SV1;1;75
 Roaring Moon ex;PAR;1;32
 Walking Wake ex;TEF;1;35
+```
 
 Importeer data:
 python -m app.cli import-cards --file data/cards.csv
