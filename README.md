@@ -43,10 +43,9 @@ python -m app.cli init-db
 ## 7. Voorbeelddata importeren via CSV
 ## 7.1 Sets importeren
 
-Maak dit bestand aan:
-data/sets.csv
+Voorbeelddata: `data/sets.csv`
 
-Voorbeelddata:
+```csv
 code;name
 BASE;Base Set
 JNG;Jungle
@@ -59,6 +58,7 @@ SV1;Scarlet & Violet Base
 PAL;Paldea Evolved
 PAR;Paradox Rift
 TEF;Temporal Forces
+```
 
 Importeer data:
 python -m app.cli import-sets --file data/sets.csv
