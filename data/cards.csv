@@ -1,0 +1,151 @@
+name;set_code;count;price
+Charizard;BASE;1;350
+Blastoise;BASE;1;180
+Venusaur;BASE;1;160
+Alakazam;BASE;2;45
+Gyarados;BASE;2;35
+Hitmonchan;BASE;1;25
+Pikachu;BASE;5;8
+Raichu;BASE;2;20
+Nidoking;BASE;1;30
+Poliwrath;BASE;1;22
+
+Snorlax;JNG;1;95
+Scyther;JNG;1;70
+Vaporeon;JNG;1;45
+Flareon;JNG;1;50
+Jolteon;JNG;1;48
+Kangaskhan;JNG;2;18
+Mr. Mime;JNG;1;35
+Pidgeot;JNG;2;20
+Pinsir;JNG;1;22
+Victreebel;JNG;1;25
+
+Dark Charizard;TR;1;190
+Dark Blastoise;TR;1;120
+Dark Dragonite;TR;1;140
+Dark Raichu;TR;1;85
+Dark Hypno;TR;2;18
+Dark Machamp;TR;1;40
+Dark Slowbro;TR;1;25
+Dark Weezing;TR;3;10
+
+Sceptile ex;RS;1;110
+Blaziken ex;RS;1;130
+Swampert ex;RS;1;120
+
+Aerodactyl ex;SS;1;95
+Kabutops ex;SS;1;70
+
+Rayquaza ex;DR;1;220
+Salamence ex;DR;1;150
+Latios ex;DR;1;160
+Latias ex;DR;1;170
+
+Groudon ex;TMTA;1;140
+Kyogre ex;TMTA;1;150
+
+Gardevoir ex;HL;1;180
+Metagross ex;HL;1;135
+
+Charizard ex;FRLG;1;300
+Blastoise ex;FRLG;1;210
+Venusaur ex;FRLG;1;200
+
+Rocket’s Suicune ex;TRR;1;160
+Rocket’s Entei ex;TRR;1;150
+Rocket’s Raikou ex;TRR;1;155
+
+Deoxys ex;DX;1;190
+Rayquaza ex (Deoxys);DX;1;240
+Milotic ex;RS;1;180
+Hariyama ex;RS;1;65
+Electabuzz ex;RS;1;90
+
+Wailord ex;SS;1;140
+Tyranitar ex;SS;1;185
+Steelix ex;SS;1;110
+
+Flygon ex;DR;1;160
+Kingdra ex;DR;1;140
+
+Mew ex;LM;1;320
+Regice ex;LM;1;95
+Regirock ex;LM;1;105
+Registeel ex;LM;1;100
+
+Lugia ex;UF;1;450
+Ho-Oh ex;UF;1;380
+Steelix ex;UF;1;130
+
+Umbreon ex;DF;1;420
+Espeon ex;DF;1;360
+
+Mewtwo ex;HP;1;210
+Gyarados ex;HP;1;170
+
+Charizard Gold Star;DR;1;1250
+Rayquaza Gold Star;DF;1;1400
+Mew Gold Star;LM;1;1350
+Gyarados Gold Star;HP;1;1100
+
+Charizard VMAX;SHF;1;95
+Charizard VMAX (Rainbow);DAA;1;210
+Charizard ex;OBF;1;45
+
+Umbreon VMAX (Alt Art);EVS;1;520
+Rayquaza VMAX (Alt Art);EVS;1;380
+Glaceon VMAX (Alt Art);EVS;1;250
+Leafeon VMAX (Alt Art);EVS;1;230
+
+Mew VMAX;FST;1;90
+Gengar VMAX (Alt Art);FST;1;260
+
+Lugia V (Alt Art);SIT;1;190
+Giratina VSTAR (Gold);CZ;1;165
+Arceus VSTAR (Gold);CZ;1;140
+
+Charizard ex (Tera);SV1;1;75
+Mewtwo ex;SV1;1;48
+Gardevoir ex;SV1;2;22
+
+Iron Valiant ex;PAR;2;18
+Roaring Moon ex;PAR;1;32
+Walking Wake ex;TEF;1;35
+Raging Bolt ex;TEF;1;28
+Charizard VSTAR;BRS;1;85
+Arceus VSTAR;BRS;1;55
+Mewtwo VSTAR;PGO;1;38
+Dragonite VSTAR;PGO;1;32
+
+Giratina VSTAR;LOR;1;65
+Aerodactyl V (Alt Art);LOR;1;120
+Rotom V (Alt Art);LOR;1;42
+
+Serena (Full Art);SIT;1;75
+Rayquaza VMAX;SIT;1;55
+
+Mew ex;PAL;1;48
+Baxcalibur;PAL;2;12
+Iono (Full Art);PAL;1;95
+
+Charizard ex;SV1;1;40
+Miriam (Special Illustration);SV1;1;110
+
+Roaring Moon ex;PAR;1;32
+Iron Hands ex;PAR;1;25
+Iron Valiant ex (Full Art);PAR;1;65
+
+Raging Bolt ex;TEF;1;28
+Walking Wake ex (Full Art);TEF;1;62
+Gouging Fire ex;TEF;1;18
+
+Mewtwo VSTAR;CROWN_ZENITH;1;55
+Dialga VSTAR (Gold);CZ;1;85
+Palkia VSTAR (Gold);CZ;1;80
+
+Greninja ex (Special Illustration);SVP;1;140
+Charizard ex (Black Star Promo);SVP;1;55
+
+Rayquaza ex (Tera);OBF;1;34
+Pidgeot ex (Tera);OBF;1;18

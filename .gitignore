@@ -8,9 +8,8 @@ __pycache__/
 # Virtual environment
 venv/
 
-# Database & data
-data/
+# Database bestand negeren
+data/*.db
 
 # Config met gevoelige info
 config.ini
-
